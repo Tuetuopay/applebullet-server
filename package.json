@@ -1,0 +1,11 @@
+{
+	"name": "AppleBullet",
+	"description": "AppleBullet : PushBullet iOS Bridge",
+	"dependencies": {
+		"apn": "latest",
+		"pushbullet": "latest"
+	},
+	"scripts": {
+		"start": "node app.js"
+	}
+}
